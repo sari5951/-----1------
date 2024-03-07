@@ -1,0 +1,20 @@
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\appsettings.json
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\שיור 1 ניסוי.exe
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\שיור 1 ניסוי.deps.json
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\שיור 1 ניסוי.runtimeconfig.json
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\שיור 1 ניסוי.runtimeconfig.dev.json
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\שיור 1 ניסוי.dll
+F:\יד\זילברברג\שיור 1 ניסוי\bin\Debug\netcoreapp3.1\שיור 1 ניסוי.pdb
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.csprojAssemblyReference.cache
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.AssemblyInfoInputs.cache
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.AssemblyInfo.cs
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.csproj.CoreCompileInputs.cache
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.MvcApplicationPartsAssemblyInfo.cache
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.RazorTargetAssemblyInfo.cache
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\staticwebassets\שיור 1 ניסוי.StaticWebAssets.Manifest.cache
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\staticwebassets\שיור 1 ניסוי.StaticWebAssets.xml
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.dll
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.pdb
+F:\יד\זילברברג\שיור 1 ניסוי\obj\Debug\netcoreapp3.1\שיור 1 ניסוי.genruntimeconfig.cache
